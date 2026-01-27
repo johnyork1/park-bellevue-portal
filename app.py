@@ -31,7 +31,7 @@ st.title("🏛️ Park Bellevue Collective")
 st.caption("Publishing Catalog Portal • Read-Only")
 
 # Sidebar Navigation
-page = st.sidebar.radio("Go to", ["Dashboard", "Deployment Status"])
+page = st.sidebar.radio("Go to", ["Dashboard", "All Songs", "Deployment Status"])
 
 # ============================================================================
 # DASHBOARD (Overview)
@@ -78,6 +78,43 @@ if page == "Dashboard":
                 "Code": s.get('legacy_code', '-')
             })
         st.dataframe(pd.DataFrame(table_data), use_container_width=True)
+    else:
+        st.info("No songs in catalog yet.")
+
+# ============================================================================
+# ALL SONGS (Full Catalog View)
+# ============================================================================
+elif page == "All Songs":
+    st.header("📀 Complete Catalog")
+
+    if songs:
+        # Filters
+        col1, col2 = st.columns(2)
+        with col1:
+            status_filter = st.selectbox("Filter by Status", ["All", "idea", "demo", "mixing", "mastered", "released"])
+        with col2:
+            search = st.text_input("Search by Title")
+
+        # Apply filters
+        filtered = songs
+        if status_filter != "All":
+            filtered = [s for s in filtered if s.get('status') == status_filter]
+        if search:
+            search_lower = search.lower()
+            filtered = [s for s in filtered if search_lower in s.get('title', '').lower()]
+
+        st.write(f"**Showing {len(filtered)} of {len(songs)} songs**")
+
+        # Display table
+        table_data = []
+        for s in filtered:
+            table_data.append({
+                "Title": s['title'],
+                "Artist": s.get('artist', 'Park Bellevue'),
+                "Status": s.get('status', '-').title(),
+                "Code": s.get('legacy_code', '-')
+            })
+        st.dataframe(pd.DataFrame(table_data), use_container_width=True, height=500)
     else:
         st.info("No songs in catalog yet.")
 
