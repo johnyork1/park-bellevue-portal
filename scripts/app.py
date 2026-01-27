@@ -4,9 +4,9 @@ import json
 from pathlib import Path
 
 # ============================================================================
-# DATA ACCESS - Reads from shared Ridgemont Catalog Manager
+# DATA ACCESS - Reads from local data folder (synced from Ridgemont Catalog Manager)
 # ============================================================================
-DATA_DIR = Path(__file__).parent.parent.parent / "Ridgemont Catalog Manager" / "data"
+DATA_DIR = Path(__file__).parent.parent / "data"
 
 def load_catalog():
     """Load catalog and filter to PARK_BELLEVUE songs only."""
