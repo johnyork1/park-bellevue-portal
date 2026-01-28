@@ -8215,6 +8215,93 @@
         "sync_libraries": [],
         "streaming": []
       }
+    },
+    {
+      "song_id": "RS-2026-042712D",
+      "title": "Song D",
+      "alt_titles": [],
+      "act_id": "PARK_BELLEVUE",
+      "artist": "Park Bellevue",
+      "writers": [],
+      "legacy_code": "",
+      "musical_info": {},
+      "sync_metadata": {},
+      "status": "idea",
+      "dates": {
+        "created": "2026-01-28T04:27:12.210833",
+        "last_modified": "2026-01-28T04:27:12.210840"
+      },
+      "registration": {},
+      "rights": {},
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [],
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-042712E",
+      "title": "Song E",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "artist": "Frozen Cloud",
+      "writers": [],
+      "legacy_code": "",
+      "musical_info": {},
+      "sync_metadata": {},
+      "status": "idea",
+      "dates": {
+        "created": "2026-01-28T04:27:12.210844",
+        "last_modified": "2026-01-28T04:27:12.210845"
+      },
+      "registration": {},
+      "rights": {},
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [],
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-0053",
+      "title": "Song F",
+      "alt_titles": [],
+      "act_id": "BAJAN_SUN",
+      "artist": "Bajan Sun",
+      "writers": [],
+      "legacy_code": "SONG",
+      "musical_info": {},
+      "sync_metadata": {},
+      "status": "idea",
+      "dates": {
+        "created": "2026-01-28T04:29:19.804550",
+        "last_modified": "2026-01-28T04:29:19.804571"
+      },
+      "registration": {},
+      "rights": {},
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [],
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
     }
   ],
   "albums": [
