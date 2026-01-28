@@ -7751,7 +7751,7 @@
       "artist": "Stone Meridian",
       "album": "Dark Pattern",
       "writers": [],
-      "legacy_code": "",
+      "legacy_code": "THEG",
       "musical_info": {
         "genre": "Rock",
         "subgenre": "",
@@ -7827,172 +7827,6 @@
       }
     },
     {
-      "song_id": "RS-2026-1270128",
-      "title": "Crazy",
-      "alt_titles": [],
-      "act_id": "FROZEN_CLOUD",
-      "artist": "Honest Mile",
-      "album": "Mile of Madness",
-      "writers": [],
-      "legacy_code": "",
-      "musical_info": {
-        "genre": "Unknown",
-        "subgenre": "",
-        "bpm": null,
-        "key": null,
-        "time_signature": "4/4",
-        "duration_seconds": 206,
-        "instrumental": false
-      },
-      "sync_metadata": {
-        "moods": [],
-        "themes": [],
-        "keywords": [],
-        "similar_artists": [],
-        "use_cases": [],
-        "explicit": false,
-        "one_stop": true
-      },
-      "status": "finished",
-      "dates": {
-        "created": "2026-01-27T01:28:56.297821",
-        "demo_completed": "2026-01-27T01:28:56.297821",
-        "mastered": "2026-01-27T01:28:56.297821",
-        "released": null,
-        "last_modified": "2026-01-27T01:28:56.297821"
-      },
-      "registration": {
-        "isrc": null,
-        "iswc": null,
-        "pro_work_id": null,
-        "copyright_reg": null,
-        "registered_with": []
-      },
-      "rights": {
-        "master_owner": "Ridgemont Studio",
-        "publisher": "Ridgemont Studio",
-        "territories": [
-          "Worldwide"
-        ],
-        "restrictions": [],
-        "licenses": []
-      },
-      "revenue": {
-        "expenses": [],
-        "total_earned": 0
-      },
-      "links": {
-        "r2_path": "Honest Mile/Mile of Madness/Crazy.mp3"
-      },
-      "events": [
-        {
-          "timestamp": "2026-01-27T01:28:56.297821",
-          "event_type": "created",
-          "description": "Auto-uploaded via watch_and_upload.py",
-          "user": "System"
-        }
-      ],
-      "notes": "",
-      "sync_checklist": {
-        "sync_status": "available",
-        "master_cleared": true,
-        "publishing_cleared": true,
-        "one_stop_available": true,
-        "stems_available": false,
-        "instrumental_available": false,
-        "sync_rep_assigned": null,
-        "pitch_deck_ready": false
-      },
-      "deployments": {
-        "distribution": [],
-        "sync_libraries": [],
-        "streaming": []
-      }
-    },
-    {
-      "song_id": "RS-2026-1270131",
-      "title": "Crazy",
-      "alt_titles": [],
-      "act_id": "FROZEN_CLOUD",
-      "artist": "Echoes of Jahara",
-      "album": "Babylon Fever",
-      "writers": [],
-      "legacy_code": "",
-      "musical_info": {
-        "genre": "Unknown",
-        "subgenre": "",
-        "bpm": null,
-        "key": null,
-        "time_signature": "4/4",
-        "duration_seconds": 206,
-        "instrumental": false
-      },
-      "sync_metadata": {
-        "moods": [],
-        "themes": [],
-        "keywords": [],
-        "similar_artists": [],
-        "use_cases": [],
-        "explicit": false,
-        "one_stop": true
-      },
-      "status": "finished",
-      "dates": {
-        "created": "2026-01-27T01:31:46.747415",
-        "demo_completed": "2026-01-27T01:31:46.747415",
-        "mastered": "2026-01-27T01:31:46.747415",
-        "released": null,
-        "last_modified": "2026-01-27T01:31:46.747415"
-      },
-      "registration": {
-        "isrc": null,
-        "iswc": null,
-        "pro_work_id": null,
-        "copyright_reg": null,
-        "registered_with": []
-      },
-      "rights": {
-        "master_owner": "Ridgemont Studio",
-        "publisher": "Ridgemont Studio",
-        "territories": [
-          "Worldwide"
-        ],
-        "restrictions": [],
-        "licenses": []
-      },
-      "revenue": {
-        "expenses": [],
-        "total_earned": 0
-      },
-      "links": {
-        "r2_path": "Echoes of Jahara/Babylon Fever/Crazy.mp3"
-      },
-      "events": [
-        {
-          "timestamp": "2026-01-27T01:31:46.747415",
-          "event_type": "created",
-          "description": "Auto-uploaded via watch_and_upload.py",
-          "user": "System"
-        }
-      ],
-      "notes": "",
-      "sync_checklist": {
-        "sync_status": "available",
-        "master_cleared": true,
-        "publishing_cleared": true,
-        "one_stop_available": true,
-        "stems_available": false,
-        "instrumental_available": false,
-        "sync_rep_assigned": null,
-        "pitch_deck_ready": false
-      },
-      "deployments": {
-        "distribution": [],
-        "sync_libraries": [],
-        "streaming": []
-      }
-    },
-    {
       "song_id": "RS-2026-1270136",
       "title": "Crazy",
       "alt_titles": [],
@@ -8000,7 +7834,7 @@
       "artist": "Phantom Frenzy",
       "album": "Exit Liquidity",
       "writers": [],
-      "legacy_code": "",
+      "legacy_code": "CRAZ",
       "musical_info": {
         "genre": "Hip-Hop",
         "subgenre": "",
@@ -8083,7 +7917,7 @@
       "artist": "Fuego Urbano",
       "album": "Noche Incendiada",
       "writers": [],
-      "legacy_code": "",
+      "legacy_code": "CRA1",
       "musical_info": {
         "genre": "Banda",
         "subgenre": "",
