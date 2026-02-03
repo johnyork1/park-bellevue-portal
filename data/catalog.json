@@ -7751,7 +7751,7 @@
       "artist": "Stone Meridian",
       "album": "Dark Pattern",
       "writers": [],
-      "legacy_code": "THEG",
+      "legacy_code": "TGYP",
       "musical_info": {
         "genre": "Rock",
         "subgenre": "",
@@ -7834,7 +7834,7 @@
       "artist": "Phantom Frenzy",
       "album": "Exit Liquidity",
       "writers": [],
-      "legacy_code": "CRAZ",
+      "legacy_code": "CRZY",
       "musical_info": {
         "genre": "Hip-Hop",
         "subgenre": "",
@@ -7917,7 +7917,7 @@
       "artist": "Fuego Urbano",
       "album": "Noche Incendiada",
       "writers": [],
-      "legacy_code": "CRA1",
+      "legacy_code": "CRZY",
       "musical_info": {
         "genre": "Banda",
         "subgenre": "",
@@ -7991,6 +7991,2674 @@
         "sync_libraries": [],
         "streaming": []
       }
+    },
+    {
+      "song_id": "RS-2026-1272341",
+      "title": "Canzonet",
+      "alt_titles": [],
+      "act_id": "MERCURY_HALO",
+      "artist": "Mercury Halo",
+      "album": "Blackout Notes",
+      "writers": [],
+      "legacy_code": "",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": 147,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "finished",
+      "dates": {
+        "created": "2026-01-27T23:41:55.395290",
+        "demo_completed": "2026-01-27T23:41:55.395290",
+        "mastered": "2026-01-27T23:41:55.395290",
+        "released": null,
+        "last_modified": "2026-01-27T23:41:55.395290"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": [],
+        "licenses": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {
+        "r2_path": "Mercury Halo/Blackout Notes/Canzonet.mp3"
+      },
+      "events": [
+        {
+          "timestamp": "2026-01-27T23:41:55.395290",
+          "event_type": "created",
+          "description": "Auto-uploaded via watch_and_upload.py",
+          "user": "System"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "available",
+        "master_cleared": true,
+        "publishing_cleared": true,
+        "one_stop_available": true,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1272341",
+      "title": "Trouble Bad",
+      "alt_titles": [],
+      "act_id": "DUST_THUNDER",
+      "artist": "Dust & Thunder",
+      "album": "A Time When Men Die",
+      "writers": [],
+      "legacy_code": "",
+      "musical_info": {
+        "genre": "Blues",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": 246,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "finished",
+      "dates": {
+        "created": "2026-01-27T23:41:56.244482",
+        "demo_completed": "2026-01-27T23:41:56.244482",
+        "mastered": "2026-01-27T23:41:56.244482",
+        "released": null,
+        "last_modified": "2026-01-27T23:41:56.244482"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": [],
+        "licenses": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {
+        "r2_path": "Dust & Thunder/A Time When Men Die/Trouble Bad.mp3"
+      },
+      "events": [
+        {
+          "timestamp": "2026-01-27T23:41:56.244482",
+          "event_type": "created",
+          "description": "Auto-uploaded via watch_and_upload.py",
+          "user": "System"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "available",
+        "master_cleared": true,
+        "publishing_cleared": true,
+        "one_stop_available": true,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1272341",
+      "title": "Hooked On You",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "artist": "Honest Mile",
+      "album": "Mile of Madness",
+      "writers": [],
+      "legacy_code": "",
+      "musical_info": {
+        "genre": "Country",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": 223,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "finished",
+      "dates": {
+        "created": "2026-01-27T23:41:57.194609",
+        "demo_completed": "2026-01-27T23:41:57.194609",
+        "mastered": "2026-01-27T23:41:57.194609",
+        "released": null,
+        "last_modified": "2026-01-27T23:41:57.194609"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": [],
+        "licenses": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {
+        "r2_path": "Honest Mile/Mile of Madness/Hooked On You.mp3"
+      },
+      "events": [
+        {
+          "timestamp": "2026-01-27T23:41:57.194609",
+          "event_type": "created",
+          "description": "Auto-uploaded via watch_and_upload.py",
+          "user": "System"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "available",
+        "master_cleared": true,
+        "publishing_cleared": true,
+        "one_stop_available": true,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300036",
+      "title": "Trouble Bad",
+      "alt_titles": [],
+      "act_id": "HARBOR_GREY",
+      "artist": "Harbor Grey",
+      "album": "Porchlight Cartography",
+      "writers": [],
+      "legacy_code": "",
+      "musical_info": {
+        "genre": "Folk-Rock",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": 289,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "finished",
+      "dates": {
+        "created": "2026-01-30T00:36:47.486696",
+        "demo_completed": "2026-01-30T00:36:47.486696",
+        "mastered": "2026-01-30T00:36:47.486696",
+        "released": null,
+        "last_modified": "2026-01-30T00:36:47.486696"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": [],
+        "licenses": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {
+        "r2_path": "Harbor Grey/Porchlight Cartography/Trouble Bad.mp3"
+      },
+      "events": [
+        {
+          "timestamp": "2026-01-30T00:36:47.486696",
+          "event_type": "created",
+          "description": "Auto-uploaded via watch_and_upload.py",
+          "user": "System"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "available",
+        "master_cleared": true,
+        "publishing_cleared": true,
+        "one_stop_available": true,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300037",
+      "title": "Birds At Midnight",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "BRDM",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: BRDM)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300038",
+      "title": "Can It Be Mine",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "CIBM",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: CIBM)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300039",
+      "title": "Getting Old",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "GTOD",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: GTOD)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300040",
+      "title": "Hands Of Time",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "HOFT",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: HOFT)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300042",
+      "title": "Heroic",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "HERO",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: HERO)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300043",
+      "title": "I'm Okay",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "IMOK",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: IMOK)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300044",
+      "title": "Inside My Mind",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "ISMY",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: ISMY)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300045",
+      "title": "Kickin' It",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "KKIT",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: KKIT)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300046",
+      "title": "Lone Cypress",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "LNCY",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: LNCY)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300047",
+      "title": "Milky Way",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "MLWY",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: MLWY)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300048",
+      "title": "Saturn's Ring",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "STRN",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: STRN)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300049",
+      "title": "Set Your Love Free",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "SYLF",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: SYLF)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300053",
+      "title": "Cup Of Tea",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "COTE",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": "2026-01-31",
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T02:21:11.969021"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T02:21:11.969021",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: COTE)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300054",
+      "title": "Better Than Dreams",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "BTDR",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "demo",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T03:35:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T03:35:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork folder organization (legacy code: BTDR)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "sync_checklist": {
+        "sync_status": "not_ready",
+        "master_cleared": false,
+        "publishing_cleared": false,
+        "one_stop_available": false,
+        "stems_available": false,
+        "instrumental_available": false,
+        "sync_rep_assigned": null,
+        "pitch_deck_ready": false
+      },
+      "copyright_number": null,
+      "artist": "Frozen Cloud",
+      "deployments": {
+        "distribution": [],
+        "sync_libraries": [],
+        "streaming": []
+      }
+    },
+    {
+      "song_id": "RS-2026-1300055",
+      "title": "Chaotic Scenes",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "CHSC",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: CHSC)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300056",
+      "title": "Happy",
+      "alt_titles": [
+        "I'm Happy"
+      ],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "HAPY",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: HAPY)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300057",
+      "title": "Light Of Your Love",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "LOYL",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: LOYL)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300058",
+      "title": "Look Away",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "LKAW",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: LKAW)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300059",
+      "title": "Pretty Eyes",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "PRTY",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: PRTY)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300060",
+      "title": "Silly Man",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "SLMN",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: SLMN)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300061",
+      "title": "Silver And Gold",
+      "alt_titles": [
+        "Silver & Gold"
+      ],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "SVGD",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: SVGD)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300063",
+      "title": "Venus",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "VENS",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: VENS)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300065",
+      "title": "Candlelight",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "CNDL",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: CNDL)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300066",
+      "title": "Drowning Memory",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "DRMM",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: DRMM)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300067",
+      "title": "The Perfect Dream",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "TPDR",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: TPDR)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300068",
+      "title": "Will I Ever Know",
+      "alt_titles": [
+        "Will I Ever Know?"
+      ],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "WIEK",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: WIEK)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300070",
+      "title": "Dreams And Reality",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "DRAR",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: DRAR)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300071",
+      "title": "Learn To Dance",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "LTDN",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: LTDN)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300072",
+      "title": "Thank You",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "THKU",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:00:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:00:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: THKU)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "song_id": "RS-2026-1300073",
+      "title": "Night Sky",
+      "alt_titles": [],
+      "act_id": "FROZEN_CLOUD",
+      "writers": [
+        {
+          "writer_id": "W-0002",
+          "percentage": 100,
+          "role": "composer_lyricist"
+        }
+      ],
+      "legacy_code": "NSKY",
+      "musical_info": {
+        "genre": "Pop",
+        "subgenre": "",
+        "bpm": null,
+        "key": null,
+        "time_signature": "4/4",
+        "duration_seconds": null,
+        "instrumental": false
+      },
+      "sync_metadata": {
+        "moods": [],
+        "themes": [],
+        "keywords": [],
+        "similar_artists": [],
+        "use_cases": [],
+        "explicit": false,
+        "one_stop": true
+      },
+      "status": "idea",
+      "dates": {
+        "created": null,
+        "demo_completed": null,
+        "mastered": null,
+        "released": null,
+        "last_modified": "2026-02-01T04:30:00.000000"
+      },
+      "registration": {
+        "isrc": null,
+        "iswc": null,
+        "pro_work_id": null,
+        "copyright_reg": null,
+        "registered_with": []
+      },
+      "rights": {
+        "master_owner": "Ridgemont Studio",
+        "publisher": "Ridgemont Studio",
+        "territories": [
+          "Worldwide"
+        ],
+        "restrictions": []
+      },
+      "revenue": {
+        "expenses": [],
+        "total_earned": 0
+      },
+      "links": {},
+      "events": [
+        {
+          "timestamp": "2026-02-01T04:30:00.000000",
+          "event_type": "created",
+          "description": "Added via Claude Cowork (legacy code: NSKY)",
+          "user": "Claude Cowork"
+        }
+      ],
+      "notes": "",
+      "artist": "Frozen Cloud"
+    },
+    {
+      "title": "Better Than Dreams",
+      "artist": "Thomas Wren",
+      "legacy_code": "BETT",
+      "status": "idea"
     }
   ],
   "albums": [
