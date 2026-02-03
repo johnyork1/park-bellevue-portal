@@ -8249,7 +8249,7 @@
       "artist": "Harbor Grey",
       "album": "Porchlight Cartography",
       "writers": [],
-      "legacy_code": "",
+      "legacy_code": "TROB",
       "musical_info": {
         "genre": "Folk-Rock",
         "subgenre": "",
@@ -10658,7 +10658,17 @@
       "title": "Better Than Dreams",
       "artist": "Thomas Wren",
       "legacy_code": "BETT",
-      "status": "idea"
+      "status": "idea",
+      "act_id": "BAJAN_SUN",
+      "song_id": "RS-2026-2022115"
+    },
+    {
+      "title": "Rocket to Moon",
+      "artist": "Harbor Grey",
+      "legacy_code": "ROCK",
+      "status": "idea",
+      "act_id": "FROZEN_CLOUD",
+      "song_id": "RS-2026-2022116"
     }
   ],
   "albums": [
