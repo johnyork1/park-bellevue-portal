@@ -7698,7 +7698,8 @@
         "created": "2026-01-25"
       },
       "is_cover": true,
-      "cover_of": "Crazy"
+      "cover_of": "Crazy",
+      "album": "Mile of Madness"
     },
     {
       "song_id": "RS-2026-0046",
@@ -7741,13 +7742,14 @@
         "streaming": [
           "Tidal"
         ]
-      }
+      },
+      "album": "Babylon Fever"
     },
     {
       "song_id": "RS-2026-1262359",
       "title": "The Games You Play",
       "alt_titles": [],
-      "act_id": "STONE_MERIDIAN",
+      "act_id": "FROZEN_CLOUD",
       "artist": "Stone Meridian",
       "album": "Dark Pattern",
       "writers": [],
@@ -7830,7 +7832,7 @@
       "song_id": "RS-2026-1270136",
       "title": "Crazy",
       "alt_titles": [],
-      "act_id": "PHANTOM_FRENZY",
+      "act_id": "FROZEN_CLOUD",
       "artist": "Phantom Frenzy",
       "album": "Exit Liquidity",
       "writers": [],
@@ -7913,7 +7915,7 @@
       "song_id": "RS-2026-1270138",
       "title": "Crazy",
       "alt_titles": [],
-      "act_id": "FUEGO_URBANO",
+      "act_id": "FROZEN_CLOUD",
       "artist": "Fuego Urbano",
       "album": "Noche Incendiada",
       "writers": [],
@@ -7996,11 +7998,11 @@
       "song_id": "RS-2026-1272341",
       "title": "Canzonet",
       "alt_titles": [],
-      "act_id": "MERCURY_HALO",
+      "act_id": "FROZEN_CLOUD",
       "artist": "Mercury Halo",
       "album": "Blackout Notes",
       "writers": [],
-      "legacy_code": "",
+      "legacy_code": "CANZ",
       "musical_info": {
         "genre": "Pop",
         "subgenre": "",
@@ -8079,11 +8081,11 @@
       "song_id": "RS-2026-1272341",
       "title": "Trouble Bad",
       "alt_titles": [],
-      "act_id": "DUST_THUNDER",
+      "act_id": "BAJAN_SUN",
       "artist": "Dust & Thunder",
       "album": "A Time When Men Die",
       "writers": [],
-      "legacy_code": "",
+      "legacy_code": "TRBD",
       "musical_info": {
         "genre": "Blues",
         "subgenre": "",
@@ -8166,7 +8168,7 @@
       "artist": "Honest Mile",
       "album": "Mile of Madness",
       "writers": [],
-      "legacy_code": "",
+      "legacy_code": "HKOY",
       "musical_info": {
         "genre": "Country",
         "subgenre": "",
@@ -8245,7 +8247,7 @@
       "song_id": "RS-2026-1300036",
       "title": "Trouble Bad",
       "alt_titles": [],
-      "act_id": "HARBOR_GREY",
+      "act_id": "BAJAN_SUN",
       "artist": "Harbor Grey",
       "album": "Porchlight Cartography",
       "writers": [],
@@ -10657,18 +10659,28 @@
     {
       "title": "Better Than Dreams",
       "artist": "Thomas Wren",
-      "legacy_code": "BETT",
+      "legacy_code": "BTDR",
       "status": "idea",
       "act_id": "BAJAN_SUN",
-      "song_id": "RS-2026-2022115"
+      "song_id": "RS-2026-2022115",
+      "album": "Mercury in the Margins"
     },
     {
       "title": "Rocket to Moon",
       "artist": "Harbor Grey",
-      "legacy_code": "ROCK",
+      "legacy_code": "RK2M",
       "status": "idea",
       "act_id": "FROZEN_CLOUD",
-      "song_id": "RS-2026-2022116"
+      "song_id": "RS-2026-2022116",
+      "album": "Porchlight Cartography"
+    },
+    {
+      "song_id": "RS-2026-2022117",
+      "title": "Love Comes Easy",
+      "artist": "Bajan Sun",
+      "act_id": "BAJAN_SUN",
+      "legacy_code": "LCEA",
+      "status": "idea"
     }
   ],
   "albums": [
